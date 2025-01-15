@@ -1,5 +1,5 @@
 <h1 align="center">
-    ⚡️ Code + Design = Magic ✨
+        Code + Design = Magic
 </h1>
 
 ```go
@@ -23,8 +23,6 @@ func main() {
     // Always coding, always designing...
 }
 ```
-
-<!-- Design Section -->
 <div align="center">
   <table>
     <tr>
@@ -60,7 +58,6 @@ func main() {
   </table>
 </div>
 
-<!-- Projects Section with Design Focus -->
 ## 🎨 Featured Projects
 
 <table>
@@ -120,7 +117,8 @@ func main() {
 
 <div align="center">
   <code>akahir@student.1337.ma</code><br>
-  www.linkedin.com/in/aymane-kahir
+    <code>aymanekahir036@gmail.com</code><br>
+    <code>www.linkedin.com/in/aymane-kahir</code><br>
 </div>
 
 ---
