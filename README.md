@@ -117,8 +117,8 @@ func main() {
 
 <div align="center">
   <code>akahir@student.1337.ma</code><br>
-    <code>aymanekahir036@gmail.com</code><br>
-    <code>www.linkedin.com/in/aymane-kahir</code><br>
+    aymanekahir036@gmail.com<br>
+    www.linkedin.com/in/aymane-kahir
 </div>
 
 ---
