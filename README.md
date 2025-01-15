@@ -120,7 +120,7 @@ func main() {
 
 <div align="center">
   <code>akahir@student.1337.ma</code><br>
-  [Add your preferred social links here]
+  www.linkedin.com/in/aymane-kahir
 </div>
 
 ---
