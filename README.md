@@ -1,82 +1,87 @@
-```text
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀
+<div align="center">
 
-                        { Code Artisan & Design Alchemist }
-                              - Aymane Kahir -
+```
+──── SYNTAX ERROR: TOO CREATIVE TO BE DEFINED ────
+
+[DEVELOPER MODE]: ON
+[DESIGNER MODE]: ON
+[CREATIVITY]:    INFINITE
 ```
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/67041961/205434801-68c81941-656e-4088-9dfb-ca40832846df.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/67041961/205434801-68c81941-656e-4088-9dfb-ca40832846df.png">
-    <img alt="The Art of Building" src="https://user-images.githubusercontent.com/67041961/205434801-68c81941-656e-4088-9dfb-ca40832846df.png" width="600px">
-  </picture>
-</div>
+### `whoami`
+```python
+class AymaneKahir:
+    def __init__(self):
+        self.name = "Aymane Kahir"
+        self.role = "Code & Design Explorer"
+        self.location = "Morocco"
+        self.education = "1337 School"
+```
 
-```go
-type Craftsman struct {
-    Code   []string
-    Design []string
-    Tools  []string
+-------------------
+
+### `skills --list`
+```css
+/* Skills Matrix */
+.developer {
+    languages: [C, Golang];
+    expertise: ["System Programming", "Backend Development"];
+    level: MAX;
 }
 
-func NewAymane() *Craftsman {
-    return &Craftsman{
-        Code:   []string{"C", "Go", "HTML", "CSS"},
-        Design: []string{"UI/UX", "Figma", "Web Design"},
-        Tools:  []string{"VSCode", "Git", "Docker"},
-    }
-}
-
-func (c *Craftsman) GetPhilosophy() string {
-    return `Building digital experiences where 
-    every pixel has purpose and 
-    every line of code tells a story.`
+.designer {
+    tools: [Figma];
+    expertise: ["UI/UX", "Web Design"];
+    creativity: UNLIMITED;
 }
 ```
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akahir&custom_title=Contribution%20Canvas&hide_border=true&theme=github-compact&point=00000000&title_color=000000&color=000000&line=FF6B6B&area=true" width="85%">
-</div>
+-------------------
 
-```text
-                              BUILDING
-                              ========
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄⠀⠀⠀⠀
-⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀
+### `projects --featured`
+```bash
+$ ls -la /projects
+drwxr-xr-x  1337 akahir  staff  Project1    # C System Programming
+drwxr-xr-x  1337 akahir  staff  Project2    # Go Backend
+drwxr-xr-x  1337 akahir  staff  Project3    # UI/UX Portfolio
 ```
 
-<table align="center" border="0">
-<tr>
-<td align="center" width="440px">
-<h3>Current Focus</h3>
+-------------------
 
-- **System Programming**: Deep diving into C
-- **Go Development**: Building efficient systems
-- **UI/UX**: Crafting intuitive experiences
+### `memory --dump`
+```assembly
+section .brain
+    global creativity_loop
 
-</td>
-<td align="center" width="440px">
-<h3>Core Values</h3>
+creativity_loop:
+    push    ideas
+    call    design_process
+    xor     bugs, bugs
+    mov     coffee, max
+    jmp     code_more
+```
 
-- **Clean Code**: Like poetry in motion
-- **Pixel Perfect**: Every detail matters
-- **User First**: Design with empathy
+-------------------
 
-</td>
-</tr>
-</table>
+### `ps aux | grep current_focus`
+```
+akahir   1337  99.9  System Programming in C
+akahir   1338  95.0  Web Development
+akahir   1339  98.5  UI/UX Design
+akahir   1340  99.9  Pushing Creativity
+```
 
-<div align="center">
-  <h2>Let's Craft Something Amazing</h2>
-  <code>akahir@student.1337.ma</code>
+-------------------
+
+### `netstat -an | grep social`
+```
+MAIL     akahir@student.1337.ma     ESTABLISHED
+GITHUB   github.com/akahir           LISTENING
+```
+
 </div>
+
+```
+ERROR 418: I'm a teapot 🫖
+Too much creativity in one profile!
+```
